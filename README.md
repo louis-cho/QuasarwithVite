@@ -87,3 +87,10 @@ function showLoading() {
 </style>
 
 ```
+
+<br>
+
+* 프로젝트 실행 예제 이미지
+<center>
+  <img src="./img/loading.png" width="70%" height="70%">
+</center>
