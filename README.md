@@ -10,11 +10,11 @@ $ npm install --save-dev @quasar/vite-plugin sass@^1.33.0
 $ npm run dev
 ```
 <center>
-<img src="./img/npm_init_quasar.png" width="50%" height="50%">
+<img src="https://github.com/louis-cho/QuasarwithVite/assets/38391852/1e484559-e3c9-497e-bd79-7af8c5b8504c" width="50%" height="50%">
 
 </br>
 
-<img src="./img/execution.png" width="70%" height="70%">
+<img src="https://github.com/louis-cho/QuasarwithVite/assets/38391852/2c5b36e7-7207-4faa-af37-c2802a24fc1a" width="70%" height="70%">
 </center>
 
 ## Quasar 컴포넌트 사용하기
@@ -91,5 +91,5 @@ function showLoading() {
 
 * 프로젝트 실행 예제 이미지
 <center>
-  <img src="./img/loading.png" width="70%" height="70%">
+  <img src="https://github.com/louis-cho/QuasarwithVite/assets/38391852/f928b391-4062-4ec3-b312-213e1f5b76de" width="70%" height="70%">
 </center>
